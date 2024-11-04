@@ -1,0 +1,57 @@
+@font-face {
+    font-family: ft-88;
+    src: url(FT88-Expanded.ttf);
+}
+h1 {
+    font-family: ft-88;
+}
+h1 {
+    border-style: ridge;
+    border-width: 2px;
+    border-color: antiquewhite;
+}
+p {
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+}
+h2 {font-family: 'Gill Sans', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+}
+ol {font-family: 'Gill Sans', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+}
+h3 {
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+}
+body {
+    background-color: lightskyblue;
+}
+table {
+    border-color: antiquewhite;
+    border-style: solid;
+}
+th {
+    border-color: antiquewhite;
+    border-style: solid;
+}
+td {
+    border-color: antiquewhite;
+    border-style: solid;
+}
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 50%;
+  color: white;
+  text-align: right;
+  font-family: 'Gill Sans', sans-serif;
+  font-size: 8px;
+  font-style: normal;
+}
+            
